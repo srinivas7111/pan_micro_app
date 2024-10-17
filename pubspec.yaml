@@ -23,7 +23,7 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/1.jpeg
+    - assets/1.jpg
 
 
   # To add assets to your package, add an assets section, like this:
