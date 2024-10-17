@@ -16,7 +16,7 @@ class PanValidationScreen extends StatelessWidget {
             const Text('This is the PAN validation screen from git.'),
             const SizedBox(height: 20), // Add some space between text and image
             Image.asset(
-              'assets/1.jpeg', // Load the image from assets
+              'assets/1.jpg', // Load the image from assets
               width: 300, // You can adjust the width and height as needed
               height: 200,
             ),
